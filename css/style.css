@@ -1,1 +1,32 @@
 /* Styles for your homework one assignment */
+div {
+    display: block;
+}
+
+.main {
+    text-align: center;
+}
+h1 {
+    color: #e45920;
+    font-size: 70px;
+    font-family: 'Asar';
+    margin-bottom: 30px;
+}
+
+p {
+    color:antiquewhite;
+    font-size: 35px;
+    font-family: 'Port-Lligat-Slab';
+    margin-top: 20px;
+}
+
+body {background-color: #002e4f;}
+
+img {
+    width: 50%;
+    height: 100%;
+    display: block;
+    margin: auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
